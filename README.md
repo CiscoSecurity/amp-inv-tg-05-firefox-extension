@@ -1,6 +1,6 @@
 [![Gitter chat](https://img.shields.io/badge/gitter-join%20chat-brightgreen.svg)](https://gitter.im/CiscoSecurity/Lobby "Gitter chat")
 
-### Microsoft Edge browser extension:
+### Firefox browser extension:
 
 Description of what is in the repo and what it does
 
