@@ -1,0 +1,25 @@
+{
+    "name": "Cisco AMP/TG/Umbrella Intelligence Search",
+    "author": "Shyue Hong Chuang <schuang@cisco.com>",
+    "description": "Right click URL or select Hash/IP/Domain to search on Cisco AMP Console, Threat Grid and Umbrella. Requires respective portal accts",
+    "version": "0.0.12",
+    "permissions": ["contextMenus", "tabs", "storage"],
+    "background": {
+        "scripts": ["ats-search.js"]
+    },
+    "options_ui": {
+        "page": "options.html",
+        "chrome_style": true
+    },
+    "icons": {
+        "16": "ATS-Search-icon16.png",
+        "48": "ATS-Search-icon48.png",
+        "128": "ATS-Search-icon128.png"
+    },
+    "manifest_version": 3,
+    "applications": {
+        "gecko": {
+            "id": "AMP_TG_Umbrella@cisco.com"
+        }
+    }
+}
