@@ -1,6 +1,6 @@
 [![Gitter chat](https://img.shields.io/badge/gitter-join%20chat-brightgreen.svg)](https://gitter.im/CiscoSecurity/Lobby "Gitter chat")
 
-### Firefoxbrowser extension:
+### Firefox browser extension:
 Raw files for the Cisco AMP/TG/Umbrella Intelligence Search extension for Mozilla Firefox.
 
 
